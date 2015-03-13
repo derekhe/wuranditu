@@ -1,0 +1,4529 @@
+[
+  {
+    "ID": 1,
+    "CityID": 2,
+    "CityName": "安徽",
+    "CityParentID": 0,
+    "lat": 31.859252,
+    "lng": 117.216005,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 2,
+    "CityID": 3,
+    "CityName": "内蒙古",
+    "CityParentID": 0,
+    "lat": 43.468238,
+    "lng": 114.415868,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 3,
+    "CityID": 4,
+    "CityName": "重庆",
+    "CityParentID": 0,
+    "lat": 29.544606,
+    "lng": 106.530635,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 4,
+    "CityID": 5,
+    "CityName": "福建",
+    "CityParentID": 0,
+    "lat": 26.050118,
+    "lng": 117.984943,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 5,
+    "CityID": 6,
+    "CityName": "甘肃",
+    "CityParentID": 0,
+    "lat": 38.103267,
+    "lng": 102.457625,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 6,
+    "CityID": 7,
+    "CityName": "广东",
+    "CityParentID": 0,
+    "lat": 23.408004,
+    "lng": 113.394818,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 7,
+    "CityID": 8,
+    "CityName": "广西",
+    "CityParentID": 0,
+    "lat": 23.552255,
+    "lng": 108.924274,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 8,
+    "CityID": 9,
+    "CityName": "贵州",
+    "CityParentID": 0,
+    "lat": 26.902826,
+    "lng": 106.734996,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 9,
+    "CityID": 10,
+    "CityName": "海南",
+    "CityParentID": 0,
+    "lat": 39.296209,
+    "lng": 106.925397,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 10,
+    "CityID": 11,
+    "CityName": "河北",
+    "CityParentID": 0,
+    "lat": 39.173149,
+    "lng": 117.220297,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 11,
+    "CityID": 12,
+    "CityName": "河南",
+    "CityParentID": 0,
+    "lat": 34.511390,
+    "lng": 101.556307,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 12,
+    "CityID": 13,
+    "CityName": "黑龙江",
+    "CityParentID": 0,
+    "lat": 47.356592,
+    "lng": 128.047414,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 13,
+    "CityID": 14,
+    "CityName": "湖北",
+    "CityParentID": 0,
+    "lat": 31.209316,
+    "lng": 112.410562,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 14,
+    "CityID": 15,
+    "CityName": "湖南",
+    "CityParentID": 0,
+    "lat": 27.695864,
+    "lng": 111.720664,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 15,
+    "CityID": 257,
+    "CityName": "吉林市",
+    "CityParentID": 16,
+    "lat": 43.871988,
+    "lng": 126.564544,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 16,
+    "CityID": 17,
+    "CityName": "江苏",
+    "CityParentID": 0,
+    "lat": 33.013797,
+    "lng": 119.368489,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 17,
+    "CityID": 18,
+    "CityName": "辽宁",
+    "CityParentID": 0,
+    "lat": 41.621600,
+    "lng": 122.753592,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 18,
+    "CityID": 19,
+    "CityName": "江西",
+    "CityParentID": 0,
+    "lat": 27.757258,
+    "lng": 115.676082,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 19,
+    "CityID": 20,
+    "CityName": "青海",
+    "CityParentID": 0,
+    "lat": 35.499761,
+    "lng": 96.202544,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 20,
+    "CityID": 21,
+    "CityName": "山东",
+    "CityParentID": 0,
+    "lat": 36.099290,
+    "lng": 118.527663,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 21,
+    "CityID": 22,
+    "CityName": "山西",
+    "CityParentID": 0,
+    "lat": 37.866566,
+    "lng": 112.515496,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 22,
+    "CityID": 23,
+    "CityName": "陕西",
+    "CityParentID": 0,
+    "lat": 35.860026,
+    "lng": 109.503789,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 23,
+    "CityID": 24,
+    "CityName": "上海",
+    "CityParentID": 0,
+    "lat": 31.249162,
+    "lng": 121.487899,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 24,
+    "CityID": 25,
+    "CityName": "四川",
+    "CityParentID": 0,
+    "lat": 30.367481,
+    "lng": 102.899160,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 25,
+    "CityID": 26,
+    "CityName": "台湾",
+    "CityParentID": 0,
+    "lat": 23.69781,
+    "lng": 120.960515,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 26,
+    "CityID": 27,
+    "CityName": "浙江",
+    "CityParentID": 0,
+    "lat": 29.159494,
+    "lng": 119.957202,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 27,
+    "CityID": 28,
+    "CityName": "西藏",
+    "CityParentID": 0,
+    "lat": 31.367315,
+    "lng": 89.137982,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 28,
+    "CityID": 29,
+    "CityName": "香港",
+    "CityParentID": 0,
+    "lat": 22.293586,
+    "lng": 114.186124,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 29,
+    "CityID": 30,
+    "CityName": "新疆",
+    "CityParentID": 0,
+    "lat": 45.611747,
+    "lng": 126.637707,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 30,
+    "CityID": 31,
+    "CityName": "云南",
+    "CityParentID": 0,
+    "lat": 24.864213,
+    "lng": 101.592952,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 31,
+    "CityID": 32,
+    "CityName": "天津",
+    "CityParentID": 0,
+    "lat": 39.143930,
+    "lng": 117.210813,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 32,
+    "CityID": 33,
+    "CityName": "北京",
+    "CityParentID": 0,
+    "lat": 39.929986,
+    "lng": 116.395645,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 33,
+    "CityID": 34,
+    "CityName": "澳门",
+    "CityParentID": 0,
+    "lat": 22.204118,
+    "lng": 113.557519,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 34,
+    "CityID": 35,
+    "CityName": "宁夏",
+    "CityParentID": 0,
+    "lat": 37.321323,
+    "lng": 106.155481,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 35,
+    "CityID": 36,
+    "CityName": "中国",
+    "CityParentID": 0,
+    "lat": 37.550339,
+    "lng": 104.114129,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 36,
+    "CityID": 37,
+    "CityName": "宿州",
+    "CityParentID": 2,
+    "lat": 33.636772,
+    "lng": 116.988692,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 37,
+    "CityID": 38,
+    "CityName": "淮北",
+    "CityParentID": 2,
+    "lat": 33.960023,
+    "lng": 116.791447,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 38,
+    "CityID": 39,
+    "CityName": "亳州",
+    "CityParentID": 2,
+    "lat": 33.871211,
+    "lng": 115.787928,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 39,
+    "CityID": 40,
+    "CityName": "蚌埠",
+    "CityParentID": 2,
+    "lat": 32.929499,
+    "lng": 117.357080,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 40,
+    "CityID": 41,
+    "CityName": "阜阳",
+    "CityParentID": 2,
+    "lat": 32.901211,
+    "lng": 115.820932,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 41,
+    "CityID": 42,
+    "CityName": "淮南",
+    "CityParentID": 2,
+    "lat": 32.642812,
+    "lng": 117.018639,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 42,
+    "CityID": 43,
+    "CityName": "滁州",
+    "CityParentID": 2,
+    "lat": 32.317351,
+    "lng": 118.324570,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 43,
+    "CityID": 44,
+    "CityName": "六安",
+    "CityParentID": 2,
+    "lat": 31.755558,
+    "lng": 116.505253,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 44,
+    "CityID": 45,
+    "CityName": "合肥",
+    "CityParentID": 2,
+    "lat": 31.866942,
+    "lng": 117.282699,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 45,
+    "CityID": 46,
+    "CityName": "巢湖",
+    "CityParentID": 2,
+    "lat": 31.608733,
+    "lng": 117.880490,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 46,
+    "CityID": 47,
+    "CityName": "马鞍山",
+    "CityParentID": 2,
+    "lat": 31.688528,
+    "lng": 118.515882,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 47,
+    "CityID": 48,
+    "CityName": "芜湖",
+    "CityParentID": 2,
+    "lat": 31.366020,
+    "lng": 118.384108,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 48,
+    "CityID": 49,
+    "CityName": "铜陵",
+    "CityParentID": 2,
+    "lat": 30.940930,
+    "lng": 117.819429,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 49,
+    "CityID": 50,
+    "CityName": "安庆",
+    "CityParentID": 2,
+    "lat": 30.537898,
+    "lng": 117.058739,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 50,
+    "CityID": 51,
+    "CityName": "宣城",
+    "CityParentID": 2,
+    "lat": 30.951642,
+    "lng": 118.752096,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 51,
+    "CityID": 52,
+    "CityName": "池州",
+    "CityParentID": 2,
+    "lat": 30.660019,
+    "lng": 117.494477,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 52,
+    "CityID": 53,
+    "CityName": "黄山",
+    "CityParentID": 2,
+    "lat": 30.277746,
+    "lng": 118.077546,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 53,
+    "CityID": 54,
+    "CityName": "阿拉善",
+    "CityParentID": 3,
+    "lat": 41.207068,
+    "lng": 113.647509,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 54,
+    "CityID": 55,
+    "CityName": "乌海",
+    "CityParentID": 3,
+    "lat": 39.683177,
+    "lng": 106.831999,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 55,
+    "CityID": 56,
+    "CityName": "鄂尔多斯",
+    "CityParentID": 3,
+    "lat": 39.816490,
+    "lng": 109.993706,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 56,
+    "CityID": 57,
+    "CityName": "巴彦淖尔",
+    "CityParentID": 3,
+    "lat": 40.769180,
+    "lng": 107.423807,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 57,
+    "CityID": 58,
+    "CityName": "包头",
+    "CityParentID": 3,
+    "lat": 40.647119,
+    "lng": 109.846239,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 58,
+    "CityID": 59,
+    "CityName": "呼和浩特",
+    "CityParentID": 3,
+    "lat": 40.828319,
+    "lng": 111.660351,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 59,
+    "CityID": 60,
+    "CityName": "乌兰察布",
+    "CityParentID": 3,
+    "lat": 41.022363,
+    "lng": 113.112846,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 60,
+    "CityID": 61,
+    "CityName": "锡林郭勒",
+    "CityParentID": 3,
+    "lat": 43.552378,
+    "lng": 113.073837,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 61,
+    "CityID": 62,
+    "CityName": "赤峰",
+    "CityParentID": 3,
+    "lat": 42.297112,
+    "lng": 118.930761,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 62,
+    "CityID": 63,
+    "CityName": "通辽",
+    "CityParentID": 3,
+    "lat": 43.633756,
+    "lng": 122.260363,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 63,
+    "CityID": 64,
+    "CityName": "兴安",
+    "CityParentID": 3,
+    "lat": 47.233710,
+    "lng": 130.244375,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 64,
+    "CityID": 65,
+    "CityName": "呼伦贝尔",
+    "CityParentID": 3,
+    "lat": 49.201636,
+    "lng": 119.760822,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 65,
+    "CityID": 66,
+    "CityName": "城口",
+    "CityParentID": 4,
+    "lat": 31.888131,
+    "lng": 108.741855,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 66,
+    "CityID": 67,
+    "CityName": "巫溪",
+    "CityParentID": 4,
+    "lat": 31.509161,
+    "lng": 109.360531,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 67,
+    "CityID": 68,
+    "CityName": "开县",
+    "CityParentID": 4,
+    "lat": 31.277101,
+    "lng": 108.389260,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 68,
+    "CityID": 69,
+    "CityName": "巫山",
+    "CityParentID": 4,
+    "lat": 31.121152,
+    "lng": 109.908611,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 69,
+    "CityID": 70,
+    "CityName": "奉节",
+    "CityParentID": 4,
+    "lat": 30.958553,
+    "lng": 109.355667,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 70,
+    "CityID": 71,
+    "CityName": "云阳",
+    "CityParentID": 4,
+    "lat": 31.042409,
+    "lng": 108.863186,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 71,
+    "CityID": 72,
+    "CityName": "万州",
+    "CityParentID": 4,
+    "lat": 30.710054,
+    "lng": 108.413439,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 72,
+    "CityID": 73,
+    "CityName": "梁平",
+    "CityParentID": 4,
+    "lat": 30.664363,
+    "lng": 107.725428,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 73,
+    "CityID": 74,
+    "CityName": "垫江",
+    "CityParentID": 4,
+    "lat": 30.259498,
+    "lng": 107.444445,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 74,
+    "CityID": 75,
+    "CityName": "潼南",
+    "CityParentID": 4,
+    "lat": 30.149933,
+    "lng": 105.819679,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 75,
+    "CityID": 76,
+    "CityName": "合川",
+    "CityParentID": 4,
+    "lat": 30.118708,
+    "lng": 106.318029,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 76,
+    "CityID": 77,
+    "CityName": "长寿",
+    "CityParentID": 4,
+    "lat": 29.960491,
+    "lng": 107.146615,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 77,
+    "CityID": 78,
+    "CityName": "丰都",
+    "CityParentID": 4,
+    "lat": 29.890596,
+    "lng": 107.837517,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 78,
+    "CityID": 79,
+    "CityName": "石柱",
+    "CityParentID": 4,
+    "lat": 30.099637,
+    "lng": 108.304890,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 79,
+    "CityID": 80,
+    "CityName": "铜梁",
+    "CityParentID": 4,
+    "lat": 29.818323,
+    "lng": 106.039243,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 80,
+    "CityID": 81,
+    "CityName": "大足",
+    "CityParentID": 4,
+    "lat": 29.660709,
+    "lng": 105.747626,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 81,
+    "CityID": 82,
+    "CityName": "重庆市区",
+    "CityParentID": 4,
+    "lat": 29.544606,
+    "lng": 106.530635,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 82,
+    "CityID": 83,
+    "CityName": "涪陵",
+    "CityParentID": 4,
+    "lat": 29.664671,
+    "lng": 107.340800,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 83,
+    "CityID": 84,
+    "CityName": "荣昌",
+    "CityParentID": 4,
+    "lat": 29.471196,
+    "lng": 105.512656,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 84,
+    "CityID": 85,
+    "CityName": "壁山",
+    "CityParentID": 4,
+    "lat": 30.581957,
+    "lng": 119.042549,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 85,
+    "CityID": 86,
+    "CityName": "黔江",
+    "CityParentID": 4,
+    "lat": 29.440981,
+    "lng": 108.714808,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 86,
+    "CityID": 87,
+    "CityName": "永川",
+    "CityParentID": 4,
+    "lat": 29.296488,
+    "lng": 105.880358,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 87,
+    "CityID": 88,
+    "CityName": "武隆",
+    "CityParentID": 4,
+    "lat": 29.379271,
+    "lng": 107.716106,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 88,
+    "CityID": 89,
+    "CityName": "彭水",
+    "CityParentID": 4,
+    "lat": 29.359628,
+    "lng": 108.272868,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 89,
+    "CityID": 90,
+    "CityName": "南川",
+    "CityParentID": 4,
+    "lat": 29.141686,
+    "lng": 107.177888,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 90,
+    "CityID": 91,
+    "CityName": "江津",
+    "CityParentID": 4,
+    "lat": 29.035351,
+    "lng": 106.269282,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 91,
+    "CityID": 92,
+    "CityName": "綦江",
+    "CityParentID": 4,
+    "lat": 28.876140,
+    "lng": 106.679237,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 92,
+    "CityID": 93,
+    "CityName": "万盛",
+    "CityParentID": 4,
+    "lat": 28.916489,
+    "lng": 106.923721,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 93,
+    "CityID": 94,
+    "CityName": "酉阳",
+    "CityParentID": 4,
+    "lat": 28.905278,
+    "lng": 108.806808,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 94,
+    "CityID": 95,
+    "CityName": "秀山",
+    "CityParentID": 4,
+    "lat": 28.498315,
+    "lng": 109.025321,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 95,
+    "CityID": 96,
+    "CityName": "忠县",
+    "CityParentID": 4,
+    "lat": 30.342003,
+    "lng": 107.921738,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 96,
+    "CityID": 97,
+    "CityName": "双桥",
+    "CityParentID": 4,
+    "lat": 40.971406,
+    "lng": 117.948355,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 97,
+    "CityID": 98,
+    "CityName": "南平",
+    "CityParentID": 5,
+    "lat": 26.643626,
+    "lng": 118.181883,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 98,
+    "CityID": 99,
+    "CityName": "宁德",
+    "CityParentID": 5,
+    "lat": 26.656527,
+    "lng": 119.542082,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 99,
+    "CityID": 100,
+    "CityName": "三明",
+    "CityParentID": 5,
+    "lat": 26.270835,
+    "lng": 117.642194,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 100,
+    "CityID": 101,
+    "CityName": "福州",
+    "CityParentID": 5,
+    "lat": 26.047125,
+    "lng": 119.330221,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 101,
+    "CityID": 102,
+    "CityName": "龙岩",
+    "CityParentID": 5,
+    "lat": 25.078685,
+    "lng": 117.017997,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 102,
+    "CityID": 103,
+    "CityName": "泉州",
+    "CityParentID": 5,
+    "lat": 24.901652,
+    "lng": 118.600362,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 103,
+    "CityID": 104,
+    "CityName": "莆田",
+    "CityParentID": 5,
+    "lat": 25.448450,
+    "lng": 119.077731,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 104,
+    "CityID": 105,
+    "CityName": "漳州",
+    "CityParentID": 5,
+    "lat": 24.517065,
+    "lng": 117.676205,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 105,
+    "CityID": 106,
+    "CityName": "厦门",
+    "CityParentID": 5,
+    "lat": 24.489231,
+    "lng": 118.103886,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 106,
+    "CityID": 107,
+    "CityName": "酒泉",
+    "CityParentID": 6,
+    "lat": 39.741474,
+    "lng": 98.508415,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 107,
+    "CityID": 108,
+    "CityName": "嘉峪关",
+    "CityParentID": 6,
+    "lat": 39.802397,
+    "lng": 98.281635,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 108,
+    "CityID": 109,
+    "CityName": "张掖",
+    "CityParentID": 6,
+    "lat": 38.939320,
+    "lng": 100.459892,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 109,
+    "CityID": 110,
+    "CityName": "金昌",
+    "CityParentID": 6,
+    "lat": 38.516072,
+    "lng": 102.208126,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 110,
+    "CityID": 111,
+    "CityName": "武威",
+    "CityParentID": 6,
+    "lat": 37.933172,
+    "lng": 102.640147,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 111,
+    "CityID": 112,
+    "CityName": "兰州",
+    "CityParentID": 6,
+    "lat": 36.064226,
+    "lng": 103.823305,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 112,
+    "CityID": 113,
+    "CityName": "白银",
+    "CityParentID": 6,
+    "lat": 36.501822,
+    "lng": 104.205649,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 113,
+    "CityID": 114,
+    "CityName": "临夏",
+    "CityParentID": 6,
+    "lat": 35.585835,
+    "lng": 103.200576,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 114,
+    "CityID": 115,
+    "CityName": "定西",
+    "CityParentID": 6,
+    "lat": 35.586056,
+    "lng": 104.626638,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 115,
+    "CityID": 116,
+    "CityName": "甘南",
+    "CityParentID": 6,
+    "lat": 34.992211,
+    "lng": 102.917442,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 116,
+    "CityID": 117,
+    "CityName": "平凉",
+    "CityParentID": 6,
+    "lat": 35.550110,
+    "lng": 106.688911,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 117,
+    "CityID": 118,
+    "CityName": "天水",
+    "CityParentID": 6,
+    "lat": 34.584319,
+    "lng": 105.736932,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 118,
+    "CityID": 119,
+    "CityName": "陇南",
+    "CityParentID": 6,
+    "lat": 33.394480,
+    "lng": 104.934573,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 119,
+    "CityID": 120,
+    "CityName": "庆阳",
+    "CityParentID": 6,
+    "lat": 35.726801,
+    "lng": 107.644227,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 120,
+    "CityID": 121,
+    "CityName": "梅州",
+    "CityParentID": 7,
+    "lat": 24.304571,
+    "lng": 116.126403,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 121,
+    "CityID": 122,
+    "CityName": "潮州",
+    "CityParentID": 7,
+    "lat": 23.661812,
+    "lng": 116.630076,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 122,
+    "CityID": 123,
+    "CityName": "汕头",
+    "CityParentID": 7,
+    "lat": 23.383908,
+    "lng": 116.728650,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 123,
+    "CityID": 124,
+    "CityName": "揭阳",
+    "CityParentID": 7,
+    "lat": 23.547999,
+    "lng": 116.379501,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 124,
+    "CityID": 125,
+    "CityName": "河源",
+    "CityParentID": 7,
+    "lat": 23.757251,
+    "lng": 114.713721,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 125,
+    "CityID": 126,
+    "CityName": "汕尾",
+    "CityParentID": 7,
+    "lat": 22.778731,
+    "lng": 115.372924,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 126,
+    "CityID": 127,
+    "CityName": "惠州",
+    "CityParentID": 7,
+    "lat": 23.113540,
+    "lng": 114.410658,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 127,
+    "CityID": 128,
+    "CityName": "韶关",
+    "CityParentID": 7,
+    "lat": 24.802960,
+    "lng": 113.594461,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 128,
+    "CityID": 129,
+    "CityName": "深圳",
+    "CityParentID": 7,
+    "lat": 22.546054,
+    "lng": 114.025974,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 129,
+    "CityID": 130,
+    "CityName": "东莞",
+    "CityParentID": 7,
+    "lat": 23.043024,
+    "lng": 113.763434,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 130,
+    "CityID": 131,
+    "CityName": "广州",
+    "CityParentID": 7,
+    "lat": 23.120049,
+    "lng": 113.307650,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 131,
+    "CityID": 132,
+    "CityName": "清远",
+    "CityParentID": 7,
+    "lat": 23.698469,
+    "lng": 113.040773,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 132,
+    "CityID": 133,
+    "CityName": "肇庆",
+    "CityParentID": 7,
+    "lat": 23.078663,
+    "lng": 112.479653,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 133,
+    "CityID": 134,
+    "CityName": "佛山",
+    "CityParentID": 7,
+    "lat": 23.035095,
+    "lng": 113.134026,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 134,
+    "CityID": 135,
+    "CityName": "中山",
+    "CityParentID": 7,
+    "lat": 38.900436,
+    "lng": 121.677966,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 135,
+    "CityID": 136,
+    "CityName": "江门",
+    "CityParentID": 7,
+    "lat": 22.575117,
+    "lng": 113.078125,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 136,
+    "CityID": 137,
+    "CityName": "云浮",
+    "CityParentID": 7,
+    "lat": 22.937976,
+    "lng": 112.050946,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 137,
+    "CityID": 138,
+    "CityName": "茂名",
+    "CityParentID": 7,
+    "lat": 21.668226,
+    "lng": 110.931245,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 138,
+    "CityID": 139,
+    "CityName": "阳江",
+    "CityParentID": 7,
+    "lat": 21.871517,
+    "lng": 111.977010,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 139,
+    "CityID": 140,
+    "CityName": "珠海",
+    "CityParentID": 7,
+    "lat": 22.256915,
+    "lng": 113.562447,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 140,
+    "CityID": 141,
+    "CityName": "湛江",
+    "CityParentID": 7,
+    "lat": 21.257463,
+    "lng": 110.365067,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 141,
+    "CityID": 142,
+    "CityName": "桂林",
+    "CityParentID": 8,
+    "lat": 25.262901,
+    "lng": 110.260920,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 142,
+    "CityID": 143,
+    "CityName": "贺州",
+    "CityParentID": 8,
+    "lat": 24.411054,
+    "lng": 111.552594,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 143,
+    "CityID": 144,
+    "CityName": "柳州",
+    "CityParentID": 8,
+    "lat": 24.329053,
+    "lng": 109.422402,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 144,
+    "CityID": 145,
+    "CityName": "来宾",
+    "CityParentID": 8,
+    "lat": 23.741166,
+    "lng": 109.231817,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 145,
+    "CityID": 146,
+    "CityName": "梧州",
+    "CityParentID": 8,
+    "lat": 23.485395,
+    "lng": 111.305472,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 146,
+    "CityID": 147,
+    "CityName": "贵港",
+    "CityParentID": 8,
+    "lat": 23.103373,
+    "lng": 109.613708,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 147,
+    "CityID": 148,
+    "CityName": "玉林",
+    "CityParentID": 8,
+    "lat": 22.643974,
+    "lng": 110.151676,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 148,
+    "CityID": 149,
+    "CityName": "河池",
+    "CityParentID": 8,
+    "lat": 24.699521,
+    "lng": 108.069948,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 149,
+    "CityID": 150,
+    "CityName": "南宁",
+    "CityParentID": 8,
+    "lat": 22.806493,
+    "lng": 108.297234,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 150,
+    "CityID": 151,
+    "CityName": "钦州",
+    "CityParentID": 8,
+    "lat": 21.973350,
+    "lng": 108.638798,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 151,
+    "CityID": 152,
+    "CityName": "北海",
+    "CityParentID": 8,
+    "lat": 21.472718,
+    "lng": 109.122628,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 152,
+    "CityID": 153,
+    "CityName": "防城港",
+    "CityParentID": 8,
+    "lat": 21.617398,
+    "lng": 108.351791,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 153,
+    "CityID": 154,
+    "CityName": "崇左",
+    "CityParentID": 8,
+    "lat": 22.415455,
+    "lng": 107.357322,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 154,
+    "CityID": 155,
+    "CityName": "百色",
+    "CityParentID": 8,
+    "lat": 23.901512,
+    "lng": 106.631821,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 155,
+    "CityID": 156,
+    "CityName": "遵义",
+    "CityParentID": 9,
+    "lat": 27.699961,
+    "lng": 106.931260,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 156,
+    "CityID": 157,
+    "CityName": "铜仁",
+    "CityParentID": 9,
+    "lat": 27.674903,
+    "lng": 109.168558,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 157,
+    "CityID": 158,
+    "CityName": "毕节",
+    "CityParentID": 9,
+    "lat": 27.408562,
+    "lng": 105.333323,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 158,
+    "CityID": 159,
+    "CityName": "贵阳",
+    "CityParentID": 9,
+    "lat": 26.629907,
+    "lng": 106.709177,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 159,
+    "CityID": 160,
+    "CityName": "黔南",
+    "CityParentID": 9,
+    "lat": 26.264536,
+    "lng": 107.523205,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 160,
+    "CityID": 161,
+    "CityName": "黔东南",
+    "CityParentID": 9,
+    "lat": 26.583992,
+    "lng": 107.985353,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 161,
+    "CityID": 162,
+    "CityName": "六盘水",
+    "CityParentID": 9,
+    "lat": 26.591866,
+    "lng": 104.852087,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 162,
+    "CityID": 163,
+    "CityName": "安顺",
+    "CityParentID": 9,
+    "lat": 26.228595,
+    "lng": 105.928270,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 163,
+    "CityID": 164,
+    "CityName": "黔西南",
+    "CityParentID": 9,
+    "lat": 25.095148,
+    "lng": 104.900558,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 164,
+    "CityID": 165,
+    "CityName": "三亚",
+    "CityParentID": 10,
+    "lat": 18.257776,
+    "lng": 109.522771,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 165,
+    "CityID": 166,
+    "CityName": "乐东",
+    "CityParentID": 10,
+    "lat": 18.658614,
+    "lng": 109.062698,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 166,
+    "CityID": 167,
+    "CityName": "五指山",
+    "CityParentID": 10,
+    "lat": 18.831306,
+    "lng": 109.517750,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 167,
+    "CityID": 168,
+    "CityName": "保亭",
+    "CityParentID": 10,
+    "lat": 18.597592,
+    "lng": 109.656113,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 168,
+    "CityID": 169,
+    "CityName": "陵水",
+    "CityParentID": 10,
+    "lat": 18.575985,
+    "lng": 109.948661,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 169,
+    "CityID": 170,
+    "CityName": "万宁",
+    "CityParentID": 10,
+    "lat": 18.839886,
+    "lng": 110.292505,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 170,
+    "CityID": 171,
+    "CityName": "琼中",
+    "CityParentID": 10,
+    "lat": 19.039771,
+    "lng": 109.861849,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 171,
+    "CityID": 172,
+    "CityName": "白沙",
+    "CityParentID": 10,
+    "lat": 19.216056,
+    "lng": 109.358586,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 172,
+    "CityID": 173,
+    "CityName": "昌江",
+    "CityParentID": 10,
+    "lat": 29.272155,
+    "lng": 117.186200,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 173,
+    "CityID": 174,
+    "CityName": "东方",
+    "CityParentID": 10,
+    "lat": 18.998161,
+    "lng": 108.851010,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 174,
+    "CityID": 175,
+    "CityName": "琼海",
+    "CityParentID": 10,
+    "lat": 19.214830,
+    "lng": 110.414359,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 175,
+    "CityID": 176,
+    "CityName": "屯昌",
+    "CityParentID": 10,
+    "lat": 19.347749,
+    "lng": 110.063364,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 176,
+    "CityID": 177,
+    "CityName": "儋州",
+    "CityParentID": 10,
+    "lat": 19.571153,
+    "lng": 109.413973,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 177,
+    "CityID": 178,
+    "CityName": "澄迈",
+    "CityParentID": 10,
+    "lat": 19.693135,
+    "lng": 109.996736,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 178,
+    "CityID": 179,
+    "CityName": "定安",
+    "CityParentID": 10,
+    "lat": 19.490991,
+    "lng": 110.320090,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 179,
+    "CityID": 180,
+    "CityName": "文昌",
+    "CityParentID": 10,
+    "lat": 19.750947,
+    "lng": 110.780909,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 180,
+    "CityID": 181,
+    "CityName": "海口",
+    "CityParentID": 10,
+    "lat": 20.022071,
+    "lng": 110.330802,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 181,
+    "CityID": 182,
+    "CityName": "临高",
+    "CityParentID": 10,
+    "lat": 19.805922,
+    "lng": 109.724102,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 182,
+    "CityID": 183,
+    "CityName": "承德",
+    "CityParentID": 11,
+    "lat": 40.992521,
+    "lng": 117.933822,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 183,
+    "CityID": 184,
+    "CityName": "秦皇岛",
+    "CityParentID": 11,
+    "lat": 39.945462,
+    "lng": 119.604368,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 184,
+    "CityID": 185,
+    "CityName": "唐山",
+    "CityParentID": 11,
+    "lat": 39.650531,
+    "lng": 118.183451,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 185,
+    "CityID": 186,
+    "CityName": "张家口",
+    "CityParentID": 11,
+    "lat": 40.811188,
+    "lng": 114.893782,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 186,
+    "CityID": 187,
+    "CityName": "保定",
+    "CityParentID": 11,
+    "lat": 38.886565,
+    "lng": 115.494810,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 187,
+    "CityID": 188,
+    "CityName": "廊坊",
+    "CityParentID": 11,
+    "lat": 39.518611,
+    "lng": 116.703602,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 188,
+    "CityID": 189,
+    "CityName": "石家庄",
+    "CityParentID": 11,
+    "lat": 38.048958,
+    "lng": 114.522082,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 189,
+    "CityID": 190,
+    "CityName": "邢台",
+    "CityParentID": 11,
+    "lat": 37.069531,
+    "lng": 114.520487,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 190,
+    "CityID": 191,
+    "CityName": "邯郸",
+    "CityParentID": 11,
+    "lat": 36.609308,
+    "lng": 114.482694,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 191,
+    "CityID": 192,
+    "CityName": "衡水",
+    "CityParentID": 11,
+    "lat": 37.746929,
+    "lng": 115.686229,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 192,
+    "CityID": 193,
+    "CityName": "沧州",
+    "CityParentID": 11,
+    "lat": 38.297615,
+    "lng": 116.863806,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 193,
+    "CityID": 194,
+    "CityName": "济源",
+    "CityParentID": 12,
+    "lat": 35.105365,
+    "lng": 112.405268,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 194,
+    "CityID": 195,
+    "CityName": "焦作",
+    "CityParentID": 12,
+    "lat": 35.234608,
+    "lng": 113.211836,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 195,
+    "CityID": 196,
+    "CityName": "新乡",
+    "CityParentID": 12,
+    "lat": 35.307258,
+    "lng": 113.912690,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 196,
+    "CityID": 197,
+    "CityName": "鹤壁",
+    "CityParentID": 12,
+    "lat": 35.755426,
+    "lng": 114.297770,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 197,
+    "CityID": 198,
+    "CityName": "三门峡",
+    "CityParentID": 12,
+    "lat": 34.783320,
+    "lng": 111.181262,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 198,
+    "CityID": 199,
+    "CityName": "洛阳",
+    "CityParentID": 12,
+    "lat": 34.657368,
+    "lng": 112.447525,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 199,
+    "CityID": 200,
+    "CityName": "郑州",
+    "CityParentID": 12,
+    "lat": 34.756610,
+    "lng": 113.649644,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 200,
+    "CityID": 201,
+    "CityName": "平顶山",
+    "CityParentID": 12,
+    "lat": 33.745301,
+    "lng": 113.300849,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 201,
+    "CityID": 202,
+    "CityName": "许昌",
+    "CityParentID": 12,
+    "lat": 34.026740,
+    "lng": 113.835312,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 202,
+    "CityID": 203,
+    "CityName": "漯河",
+    "CityParentID": 12,
+    "lat": 33.576279,
+    "lng": 114.046061,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 203,
+    "CityID": 204,
+    "CityName": "开封",
+    "CityParentID": 12,
+    "lat": 34.801854,
+    "lng": 114.351642,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 204,
+    "CityID": 205,
+    "CityName": "周口",
+    "CityParentID": 12,
+    "lat": 33.623741,
+    "lng": 114.654102,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 205,
+    "CityID": 206,
+    "CityName": "商丘",
+    "CityParentID": 12,
+    "lat": 34.438589,
+    "lng": 115.641886,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 206,
+    "CityID": 207,
+    "CityName": "南阳",
+    "CityParentID": 12,
+    "lat": 33.011420,
+    "lng": 112.542842,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 207,
+    "CityID": 208,
+    "CityName": "驻马店",
+    "CityParentID": 12,
+    "lat": 32.983158,
+    "lng": 114.049154,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 208,
+    "CityID": 209,
+    "CityName": "信阳",
+    "CityParentID": 12,
+    "lat": 32.128582,
+    "lng": 114.085491,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 209,
+    "CityID": 210,
+    "CityName": "濮阳",
+    "CityParentID": 12,
+    "lat": 35.753298,
+    "lng": 115.026627,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 210,
+    "CityID": 211,
+    "CityName": "安阳",
+    "CityParentID": 12,
+    "lat": 36.110267,
+    "lng": 114.351807,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 211,
+    "CityID": 212,
+    "CityName": "大兴安岭",
+    "CityParentID": 13,
+    "lat": 51.991789,
+    "lng": 124.196104,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 212,
+    "CityID": 213,
+    "CityName": "黑河",
+    "CityParentID": 13,
+    "lat": 50.250690,
+    "lng": 127.500830,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 213,
+    "CityID": 214,
+    "CityName": "齐齐哈尔",
+    "CityParentID": 13,
+    "lat": 47.347700,
+    "lng": 123.987289,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 214,
+    "CityID": 215,
+    "CityName": "伊春",
+    "CityParentID": 13,
+    "lat": 47.741959,
+    "lng": 128.900580,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 215,
+    "CityID": 216,
+    "CityName": "绥化",
+    "CityParentID": 13,
+    "lat": 46.646064,
+    "lng": 126.989095,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 216,
+    "CityID": 217,
+    "CityName": "大庆",
+    "CityParentID": 13,
+    "lat": 46.596709,
+    "lng": 125.021840,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 217,
+    "CityID": 218,
+    "CityName": "哈尔滨",
+    "CityParentID": 13,
+    "lat": 45.773225,
+    "lng": 126.657717,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 218,
+    "CityID": 219,
+    "CityName": "鹤岗",
+    "CityParentID": 13,
+    "lat": 47.338666,
+    "lng": 130.292472,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 219,
+    "CityID": 220,
+    "CityName": "佳木斯",
+    "CityParentID": 13,
+    "lat": 46.813780,
+    "lng": 130.284735,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 220,
+    "CityID": 221,
+    "CityName": "双鸭山",
+    "CityParentID": 13,
+    "lat": 46.655102,
+    "lng": 131.171402,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 221,
+    "CityID": 222,
+    "CityName": "七台河",
+    "CityParentID": 13,
+    "lat": 45.775005,
+    "lng": 131.019048,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 222,
+    "CityID": 223,
+    "CityName": "鸡西",
+    "CityParentID": 13,
+    "lat": 45.321540,
+    "lng": 130.941767,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 223,
+    "CityID": 224,
+    "CityName": "牡丹江",
+    "CityParentID": 13,
+    "lat": 44.588521,
+    "lng": 129.608035,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 224,
+    "CityID": 225,
+    "CityName": "十堰",
+    "CityParentID": 14,
+    "lat": 32.636994,
+    "lng": 110.801229,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 225,
+    "CityID": 226,
+    "CityName": "襄阳",
+    "CityParentID": 14,
+    "lat": 32.229169,
+    "lng": 112.250093,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 226,
+    "CityID": 227,
+    "CityName": "随州",
+    "CityParentID": 14,
+    "lat": 31.717858,
+    "lng": 113.379358,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 227,
+    "CityID": 228,
+    "CityName": "孝感",
+    "CityParentID": 14,
+    "lat": 30.927955,
+    "lng": 113.935734,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 228,
+    "CityID": 229,
+    "CityName": "武汉",
+    "CityParentID": 14,
+    "lat": 30.581084,
+    "lng": 114.316200,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 229,
+    "CityID": 230,
+    "CityName": "黄冈",
+    "CityParentID": 14,
+    "lat": 30.446109,
+    "lng": 114.906618,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 230,
+    "CityID": 231,
+    "CityName": "神农架",
+    "CityParentID": 14,
+    "lat": 31.749258,
+    "lng": 110.687036,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 231,
+    "CityID": 232,
+    "CityName": "宜昌",
+    "CityParentID": 14,
+    "lat": 30.732758,
+    "lng": 111.310981,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 232,
+    "CityID": 233,
+    "CityName": "荆门",
+    "CityParentID": 14,
+    "lat": 31.042611,
+    "lng": 112.217330,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 233,
+    "CityID": 234,
+    "CityName": "天门",
+    "CityParentID": 14,
+    "lat": 30.649047,
+    "lng": 113.126230,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 234,
+    "CityID": 235,
+    "CityName": "潜江",
+    "CityParentID": 14,
+    "lat": 30.343116,
+    "lng": 112.768768,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 235,
+    "CityID": 236,
+    "CityName": "仙桃",
+    "CityParentID": 14,
+    "lat": 30.293966,
+    "lng": 113.387448,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 236,
+    "CityID": 237,
+    "CityName": "鄂州",
+    "CityParentID": 14,
+    "lat": 30.384439,
+    "lng": 114.895594,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 237,
+    "CityID": 238,
+    "CityName": "黄石",
+    "CityParentID": 14,
+    "lat": 30.216127,
+    "lng": 115.050683,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 238,
+    "CityID": 239,
+    "CityName": "恩施",
+    "CityParentID": 14,
+    "lat": 30.308979,
+    "lng": 109.517433,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 239,
+    "CityID": 240,
+    "CityName": "荆州",
+    "CityParentID": 14,
+    "lat": 30.396103,
+    "lng": 112.099857,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 240,
+    "CityID": 241,
+    "CityName": "咸宁",
+    "CityParentID": 14,
+    "lat": 29.880657,
+    "lng": 114.300061,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 241,
+    "CityID": 242,
+    "CityName": "岳阳",
+    "CityParentID": 15,
+    "lat": 29.378007,
+    "lng": 113.146196,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 242,
+    "CityID": 243,
+    "CityName": "益阳",
+    "CityParentID": 15,
+    "lat": 28.588088,
+    "lng": 112.366547,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 243,
+    "CityID": 244,
+    "CityName": "常德",
+    "CityParentID": 15,
+    "lat": 29.012149,
+    "lng": 111.653718,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 244,
+    "CityID": 245,
+    "CityName": "张家界",
+    "CityParentID": 15,
+    "lat": 29.124889,
+    "lng": 110.481620,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 245,
+    "CityID": 246,
+    "CityName": "湘西",
+    "CityParentID": 15,
+    "lat": 28.317951,
+    "lng": 109.745746,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 246,
+    "CityID": 247,
+    "CityName": "长沙",
+    "CityParentID": 15,
+    "lat": 28.213478,
+    "lng": 112.979353,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 247,
+    "CityID": 248,
+    "CityName": "怀化",
+    "CityParentID": 15,
+    "lat": 27.557483,
+    "lng": 109.986959,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 248,
+    "CityID": 249,
+    "CityName": "株洲",
+    "CityParentID": 15,
+    "lat": 27.827433,
+    "lng": 113.131695,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 249,
+    "CityID": 250,
+    "CityName": "湘潭",
+    "CityParentID": 15,
+    "lat": 27.835095,
+    "lng": 112.935556,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 250,
+    "CityID": 251,
+    "CityName": "娄底",
+    "CityParentID": 15,
+    "lat": 27.741073,
+    "lng": 111.996396,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 251,
+    "CityID": 252,
+    "CityName": "衡阳",
+    "CityParentID": 15,
+    "lat": 26.898164,
+    "lng": 112.583819,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 252,
+    "CityID": 253,
+    "CityName": "邵阳",
+    "CityParentID": 15,
+    "lat": 27.236811,
+    "lng": 111.461525,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 253,
+    "CityID": 254,
+    "CityName": "郴州",
+    "CityParentID": 15,
+    "lat": 25.782264,
+    "lng": 113.037704,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 254,
+    "CityID": 255,
+    "CityName": "永州",
+    "CityParentID": 15,
+    "lat": 26.435972,
+    "lng": 111.614648,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 255,
+    "CityID": 256,
+    "CityName": "延边",
+    "CityParentID": 16,
+    "lat": 42.896414,
+    "lng": 129.485902,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 256,
+    "CityID": 257,
+    "CityName": "吉林市",
+    "CityParentID": 16,
+    "lat": 43.871988,
+    "lng": 126.564544,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 257,
+    "CityID": 258,
+    "CityName": "辽源",
+    "CityParentID": 16,
+    "lat": 42.923303,
+    "lng": 125.133686,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 258,
+    "CityID": 259,
+    "CityName": "四平",
+    "CityParentID": 16,
+    "lat": 43.175525,
+    "lng": 124.391382,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 259,
+    "CityID": 260,
+    "CityName": "松原",
+    "CityParentID": 16,
+    "lat": 45.136049,
+    "lng": 124.832995,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 260,
+    "CityID": 261,
+    "CityName": "长春",
+    "CityParentID": 16,
+    "lat": 43.898338,
+    "lng": 125.313642,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 261,
+    "CityID": 262,
+    "CityName": "白城",
+    "CityParentID": 16,
+    "lat": 45.621086,
+    "lng": 122.840777,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 262,
+    "CityID": 263,
+    "CityName": "通化",
+    "CityParentID": 16,
+    "lat": 41.736397,
+    "lng": 125.942650,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 263,
+    "CityID": 264,
+    "CityName": "白山",
+    "CityParentID": 16,
+    "lat": 41.945859,
+    "lng": 126.435798,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 264,
+    "CityID": 265,
+    "CityName": "连云港",
+    "CityParentID": 17,
+    "lat": 34.601549,
+    "lng": 119.173872,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 265,
+    "CityID": 266,
+    "CityName": "徐州",
+    "CityParentID": 17,
+    "lat": 34.271553,
+    "lng": 117.188107,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 266,
+    "CityID": 267,
+    "CityName": "宿迁",
+    "CityParentID": 17,
+    "lat": 33.952050,
+    "lng": 118.296893,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 267,
+    "CityID": 268,
+    "CityName": "盐城",
+    "CityParentID": 17,
+    "lat": 33.379862,
+    "lng": 120.148872,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 268,
+    "CityID": 269,
+    "CityName": "淮安",
+    "CityParentID": 17,
+    "lat": 33.606513,
+    "lng": 119.030186,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 269,
+    "CityID": 270,
+    "CityName": "扬州",
+    "CityParentID": 17,
+    "lat": 32.408505,
+    "lng": 119.427778,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 270,
+    "CityID": 271,
+    "CityName": "泰州",
+    "CityParentID": 17,
+    "lat": 32.476053,
+    "lng": 119.919606,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 271,
+    "CityID": 272,
+    "CityName": "南通",
+    "CityParentID": 17,
+    "lat": 32.014665,
+    "lng": 120.873801,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 272,
+    "CityID": 273,
+    "CityName": "镇江",
+    "CityParentID": 17,
+    "lat": 32.204409,
+    "lng": 119.455835,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 273,
+    "CityID": 274,
+    "CityName": "南京",
+    "CityParentID": 17,
+    "lat": 32.057236,
+    "lng": 118.778074,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 274,
+    "CityID": 275,
+    "CityName": "常州",
+    "CityParentID": 17,
+    "lat": 31.771397,
+    "lng": 119.981861,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 275,
+    "CityID": 276,
+    "CityName": "无锡",
+    "CityParentID": 17,
+    "lat": 31.570037,
+    "lng": 120.305456,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 276,
+    "CityID": 277,
+    "CityName": "苏州",
+    "CityParentID": 17,
+    "lat": 31.317987,
+    "lng": 120.619907,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 277,
+    "CityID": 278,
+    "CityName": "朝阳",
+    "CityParentID": 18,
+    "lat": 43.689109,
+    "lng": 125.278226,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 278,
+    "CityID": 279,
+    "CityName": "锦州",
+    "CityParentID": 18,
+    "lat": 41.130879,
+    "lng": 121.147749,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 279,
+    "CityID": 280,
+    "CityName": "葫芦岛",
+    "CityParentID": 18,
+    "lat": 40.743030,
+    "lng": 120.860758,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 280,
+    "CityID": 281,
+    "CityName": "盘锦",
+    "CityParentID": 18,
+    "lat": 41.141248,
+    "lng": 122.073228,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 281,
+    "CityID": 282,
+    "CityName": "营口",
+    "CityParentID": 18,
+    "lat": 40.668651,
+    "lng": 122.233391,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 282,
+    "CityID": 283,
+    "CityName": "大连",
+    "CityParentID": 18,
+    "lat": 38.948710,
+    "lng": 121.593478,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 283,
+    "CityID": 284,
+    "CityName": "鞍山",
+    "CityParentID": 18,
+    "lat": 41.118744,
+    "lng": 123.007763,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 284,
+    "CityID": 285,
+    "CityName": "丹东",
+    "CityParentID": 18,
+    "lat": 40.129023,
+    "lng": 124.338543,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 285,
+    "CityID": 286,
+    "CityName": "本溪",
+    "CityParentID": 18,
+    "lat": 41.325838,
+    "lng": 123.778062,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 286,
+    "CityID": 287,
+    "CityName": "抚顺",
+    "CityParentID": 18,
+    "lat": 41.877304,
+    "lng": 123.929820,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 287,
+    "CityID": 288,
+    "CityName": "铁岭",
+    "CityParentID": 18,
+    "lat": 42.299757,
+    "lng": 123.854850,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 288,
+    "CityID": 289,
+    "CityName": "阜新",
+    "CityParentID": 18,
+    "lat": 42.019250,
+    "lng": 121.660822,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 289,
+    "CityID": 290,
+    "CityName": "辽阳",
+    "CityParentID": 18,
+    "lat": 41.273339,
+    "lng": 123.172451,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 290,
+    "CityID": 291,
+    "CityName": "沈阳",
+    "CityParentID": 18,
+    "lat": 41.808645,
+    "lng": 123.432791,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 291,
+    "CityID": 292,
+    "CityName": "九江",
+    "CityParentID": 19,
+    "lat": 29.719640,
+    "lng": 115.999848,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 292,
+    "CityID": 293,
+    "CityName": "上饶",
+    "CityParentID": 19,
+    "lat": 28.457623,
+    "lng": 117.955464,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 293,
+    "CityID": 294,
+    "CityName": "景德镇",
+    "CityParentID": 19,
+    "lat": 29.303563,
+    "lng": 117.186523,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 294,
+    "CityID": 295,
+    "CityName": "南昌",
+    "CityParentID": 19,
+    "lat": 28.689578,
+    "lng": 115.893528,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 295,
+    "CityID": 296,
+    "CityName": "宜春",
+    "CityParentID": 19,
+    "lat": 27.811130,
+    "lng": 114.400039,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 296,
+    "CityID": 297,
+    "CityName": "鹰潭",
+    "CityParentID": 19,
+    "lat": 28.241310,
+    "lng": 117.035450,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 297,
+    "CityID": 298,
+    "CityName": "抚州",
+    "CityParentID": 19,
+    "lat": 27.954545,
+    "lng": 116.360919,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 298,
+    "CityID": 299,
+    "CityName": "新余",
+    "CityParentID": 19,
+    "lat": 27.822322,
+    "lng": 114.947117,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 299,
+    "CityID": 300,
+    "CityName": "吉安",
+    "CityParentID": 19,
+    "lat": 27.113848,
+    "lng": 114.992039,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 300,
+    "CityID": 301,
+    "CityName": "赣州",
+    "CityParentID": 19,
+    "lat": 25.845296,
+    "lng": 114.935909,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 301,
+    "CityID": 302,
+    "CityName": "萍乡",
+    "CityParentID": 19,
+    "lat": 27.639544,
+    "lng": 113.859917,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 302,
+    "CityID": 303,
+    "CityName": "玉树",
+    "CityParentID": 20,
+    "lat": 33.006240,
+    "lng": 97.013316,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 303,
+    "CityID": 304,
+    "CityName": "果洛",
+    "CityParentID": 20,
+    "lat": 34.480485,
+    "lng": 100.223723,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 304,
+    "CityID": 305,
+    "CityName": "海西",
+    "CityParentID": 20,
+    "lat": 37.373799,
+    "lng": 97.342625,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 305,
+    "CityID": 306,
+    "CityName": "海南州",
+    "CityParentID": 20,
+    "lat": 39.296209,
+    "lng": 106.925397,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 306,
+    "CityID": 307,
+    "CityName": "黄南",
+    "CityParentID": 20,
+    "lat": 35.522852,
+    "lng": 102.007600,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 307,
+    "CityID": 308,
+    "CityName": "海东",
+    "CityParentID": 20,
+    "lat": 36.517610,
+    "lng": 102.085207,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 308,
+    "CityID": 309,
+    "CityName": "西宁",
+    "CityParentID": 20,
+    "lat": 36.640739,
+    "lng": 101.767921,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 309,
+    "CityID": 310,
+    "CityName": "海北",
+    "CityParentID": 20,
+    "lat": 36.960654,
+    "lng": 100.879802,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 310,
+    "CityID": 311,
+    "CityName": "威海",
+    "CityParentID": 21,
+    "lat": 37.528787,
+    "lng": 122.093958,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 311,
+    "CityID": 312,
+    "CityName": "青岛",
+    "CityParentID": 21,
+    "lat": 36.105215,
+    "lng": 120.384428,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 312,
+    "CityID": 313,
+    "CityName": "烟台",
+    "CityParentID": 21,
+    "lat": 37.536562,
+    "lng": 121.309555,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 313,
+    "CityID": 314,
+    "CityName": "潍坊",
+    "CityParentID": 21,
+    "lat": 36.716115,
+    "lng": 119.142634,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 314,
+    "CityID": 315,
+    "CityName": "东营",
+    "CityParentID": 21,
+    "lat": 37.408666,
+    "lng": 118.612643,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 315,
+    "CityID": 316,
+    "CityName": "滨州",
+    "CityParentID": 21,
+    "lat": 37.405314,
+    "lng": 117.968292,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 316,
+    "CityID": 317,
+    "CityName": "德州",
+    "CityParentID": 21,
+    "lat": 37.460826,
+    "lng": 116.328161,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 317,
+    "CityID": 318,
+    "CityName": "济南",
+    "CityParentID": 21,
+    "lat": 36.682785,
+    "lng": 117.024967,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 318,
+    "CityID": 319,
+    "CityName": "聊城",
+    "CityParentID": 21,
+    "lat": 36.455829,
+    "lng": 115.986869,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 319,
+    "CityID": 320,
+    "CityName": "淄博",
+    "CityParentID": 21,
+    "lat": 36.804685,
+    "lng": 118.059134,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 320,
+    "CityID": 321,
+    "CityName": "日照",
+    "CityParentID": 21,
+    "lat": 35.420225,
+    "lng": 119.507180,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 321,
+    "CityID": 322,
+    "CityName": "莱芜",
+    "CityParentID": 21,
+    "lat": 36.233654,
+    "lng": 117.684667,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 322,
+    "CityID": 323,
+    "CityName": "临沂",
+    "CityParentID": 21,
+    "lat": 35.072409,
+    "lng": 118.340768,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 323,
+    "CityID": 324,
+    "CityName": "泰安",
+    "CityParentID": 21,
+    "lat": 36.188078,
+    "lng": 117.089415,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 324,
+    "CityID": 325,
+    "CityName": "济宁",
+    "CityParentID": 21,
+    "lat": 35.402122,
+    "lng": 116.600798,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 325,
+    "CityID": 326,
+    "CityName": "枣庄",
+    "CityParentID": 21,
+    "lat": 34.807883,
+    "lng": 117.279305,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 326,
+    "CityID": 327,
+    "CityName": "菏泽",
+    "CityParentID": 21,
+    "lat": 35.262440,
+    "lng": 115.463360,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 327,
+    "CityID": 328,
+    "CityName": "运城",
+    "CityParentID": 22,
+    "lat": 35.038859,
+    "lng": 111.006854,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 328,
+    "CityID": 329,
+    "CityName": "晋城",
+    "CityParentID": 22,
+    "lat": 35.499834,
+    "lng": 112.867333,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 329,
+    "CityID": 330,
+    "CityName": "临汾",
+    "CityParentID": 22,
+    "lat": 36.099745,
+    "lng": 111.538788,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 330,
+    "CityID": 331,
+    "CityName": "长治",
+    "CityParentID": 22,
+    "lat": 36.201664,
+    "lng": 113.120292,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 331,
+    "CityID": 332,
+    "CityName": "晋中",
+    "CityParentID": 22,
+    "lat": 37.693362,
+    "lng": 112.738514,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 332,
+    "CityID": 333,
+    "CityName": "吕梁",
+    "CityParentID": 22,
+    "lat": 37.527316,
+    "lng": 111.143157,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 333,
+    "CityID": 334,
+    "CityName": "太原",
+    "CityParentID": 22,
+    "lat": 37.890277,
+    "lng": 112.550864,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 334,
+    "CityID": 335,
+    "CityName": "阳泉",
+    "CityParentID": 22,
+    "lat": 37.869529,
+    "lng": 113.569238,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 335,
+    "CityID": 336,
+    "CityName": "忻州",
+    "CityParentID": 22,
+    "lat": 38.461031,
+    "lng": 112.727939,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 336,
+    "CityID": 337,
+    "CityName": "朔州",
+    "CityParentID": 22,
+    "lat": 39.337672,
+    "lng": 112.479928,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 337,
+    "CityID": 338,
+    "CityName": "大同",
+    "CityParentID": 22,
+    "lat": 46.070051,
+    "lng": 124.699077,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 338,
+    "CityID": 339,
+    "CityName": "榆林",
+    "CityParentID": 23,
+    "lat": 38.279439,
+    "lng": 109.745926,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 339,
+    "CityID": 340,
+    "CityName": "延安",
+    "CityParentID": 23,
+    "lat": 36.603320,
+    "lng": 109.500510,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 340,
+    "CityID": 341,
+    "CityName": "渭南",
+    "CityParentID": 23,
+    "lat": 34.502358,
+    "lng": 109.483933,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 341,
+    "CityID": 342,
+    "CityName": "铜川",
+    "CityParentID": 23,
+    "lat": 34.908368,
+    "lng": 108.968067,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 342,
+    "CityID": 343,
+    "CityName": "咸阳",
+    "CityParentID": 23,
+    "lat": 34.345373,
+    "lng": 108.707509,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 343,
+    "CityID": 344,
+    "CityName": "宝鸡",
+    "CityParentID": 23,
+    "lat": 34.364081,
+    "lng": 107.170645,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 344,
+    "CityID": 345,
+    "CityName": "西安",
+    "CityParentID": 23,
+    "lat": 44.491714,
+    "lng": 129.584924,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 345,
+    "CityID": 346,
+    "CityName": "商洛",
+    "CityParentID": 23,
+    "lat": 33.873907,
+    "lng": 109.934208,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 346,
+    "CityID": 347,
+    "CityName": "汉中",
+    "CityParentID": 23,
+    "lat": 33.081569,
+    "lng": 107.045478,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 347,
+    "CityID": 348,
+    "CityName": "安康",
+    "CityParentID": 23,
+    "lat": 32.704370,
+    "lng": 109.038045,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 348,
+    "CityID": 349,
+    "CityName": "崇明",
+    "CityParentID": 24,
+    "lat": 31.633565,
+    "lng": 121.535398,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 349,
+    "CityID": 350,
+    "CityName": "宝山",
+    "CityParentID": 24,
+    "lat": 46.529228,
+    "lng": 131.564836,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 350,
+    "CityID": 351,
+    "CityName": "嘉定",
+    "CityParentID": 24,
+    "lat": 31.364338,
+    "lng": 121.251014,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 351,
+    "CityID": 352,
+    "CityName": "浦东新区",
+    "CityParentID": 24,
+    "lat": 31.230895,
+    "lng": 121.638481,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 352,
+    "CityID": 353,
+    "CityName": "上海市区",
+    "CityParentID": 24,
+    "lat": 31.249162,
+    "lng": 121.487899,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 353,
+    "CityID": 354,
+    "CityName": "青浦",
+    "CityParentID": 24,
+    "lat": 31.130862,
+    "lng": 121.091425,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 354,
+    "CityID": 355,
+    "CityName": "闵行",
+    "CityParentID": 24,
+    "lat": 31.093538,
+    "lng": 121.425024,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 355,
+    "CityID": 356,
+    "CityName": "松江",
+    "CityParentID": 24,
+    "lat": 31.021245,
+    "lng": 121.226791,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 356,
+    "CityID": 357,
+    "CityName": "奉贤",
+    "CityParentID": 24,
+    "lat": 30.915122,
+    "lng": 121.560642,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 357,
+    "CityID": 358,
+    "CityName": "金山",
+    "CityParentID": 24,
+    "lat": 30.835081,
+    "lng": 121.248408,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 358,
+    "CityID": 359,
+    "CityName": "甘孜",
+    "CityParentID": 25,
+    "lat": 30.055144,
+    "lng": 101.969232,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 359,
+    "CityID": 360,
+    "CityName": "阿坝",
+    "CityParentID": 25,
+    "lat": 31.905763,
+    "lng": 102.228565,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 360,
+    "CityID": 361,
+    "CityName": "绵阳",
+    "CityParentID": 25,
+    "lat": 31.504701,
+    "lng": 104.705519,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 361,
+    "CityID": 362,
+    "CityName": "广元",
+    "CityParentID": 25,
+    "lat": 32.441040,
+    "lng": 105.819687,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 362,
+    "CityID": 363,
+    "CityName": "巴中",
+    "CityParentID": 25,
+    "lat": 31.869189,
+    "lng": 106.757916,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 363,
+    "CityID": 364,
+    "CityName": "达州",
+    "CityParentID": 25,
+    "lat": 31.214199,
+    "lng": 107.494973,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 364,
+    "CityID": 365,
+    "CityName": "南充",
+    "CityParentID": 25,
+    "lat": 30.800965,
+    "lng": 106.105554,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 365,
+    "CityID": 366,
+    "CityName": "广安",
+    "CityParentID": 25,
+    "lat": 30.599250,
+    "lng": 106.758912,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 366,
+    "CityID": 367,
+    "CityName": "遂宁",
+    "CityParentID": 25,
+    "lat": 30.557491,
+    "lng": 105.564888,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 367,
+    "CityID": 368,
+    "CityName": "德阳",
+    "CityParentID": 25,
+    "lat": 31.131140,
+    "lng": 104.402398,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 368,
+    "CityID": 369,
+    "CityName": "资阳",
+    "CityParentID": 25,
+    "lat": 28.694069,
+    "lng": 112.343121,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 369,
+    "CityID": 370,
+    "CityName": "成都",
+    "CityParentID": 25,
+    "lat": 30.679943,
+    "lng": 104.067923,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 370,
+    "CityID": 371,
+    "CityName": "雅安",
+    "CityParentID": 25,
+    "lat": 29.999716,
+    "lng": 103.009356,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 371,
+    "CityID": 372,
+    "CityName": "眉山",
+    "CityParentID": 25,
+    "lat": 30.061115,
+    "lng": 103.841430,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 372,
+    "CityID": 373,
+    "CityName": "内江",
+    "CityParentID": 25,
+    "lat": 29.599462,
+    "lng": 105.073056,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 373,
+    "CityID": 374,
+    "CityName": "泸州",
+    "CityParentID": 25,
+    "lat": 28.895930,
+    "lng": 105.443970,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 374,
+    "CityID": 375,
+    "CityName": "自贡",
+    "CityParentID": 25,
+    "lat": 29.359157,
+    "lng": 104.776071,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 375,
+    "CityID": 376,
+    "CityName": "乐山",
+    "CityParentID": 25,
+    "lat": 29.600958,
+    "lng": 103.760824,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 376,
+    "CityID": 377,
+    "CityName": "宜宾",
+    "CityParentID": 25,
+    "lat": 28.769675,
+    "lng": 104.633019,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 377,
+    "CityID": 378,
+    "CityName": "凉山",
+    "CityParentID": 25,
+    "lat": 27.892393,
+    "lng": 102.259591,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 378,
+    "CityID": 379,
+    "CityName": "攀枝花",
+    "CityParentID": 25,
+    "lat": 26.587571,
+    "lng": 101.722423,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 379,
+    "CityID": 380,
+    "CityName": "湖州",
+    "CityParentID": 27,
+    "lat": 30.877925,
+    "lng": 120.137243,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 380,
+    "CityID": 381,
+    "CityName": "嘉兴",
+    "CityParentID": 27,
+    "lat": 30.773992,
+    "lng": 120.760428,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 381,
+    "CityID": 382,
+    "CityName": "杭州",
+    "CityParentID": 27,
+    "lat": 30.259244,
+    "lng": 120.219375,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 382,
+    "CityID": 383,
+    "CityName": "绍兴",
+    "CityParentID": 27,
+    "lat": 30.002365,
+    "lng": 120.592467,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 383,
+    "CityID": 384,
+    "CityName": "宁波",
+    "CityParentID": 27,
+    "lat": 29.885259,
+    "lng": 121.579006,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 384,
+    "CityID": 385,
+    "CityName": "衢州",
+    "CityParentID": 27,
+    "lat": 28.956910,
+    "lng": 118.875842,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 385,
+    "CityID": 386,
+    "CityName": "金华",
+    "CityParentID": 27,
+    "lat": 29.102899,
+    "lng": 119.652576,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 386,
+    "CityID": 387,
+    "CityName": "台州",
+    "CityParentID": 27,
+    "lat": 28.668283,
+    "lng": 121.440613,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 387,
+    "CityID": 388,
+    "CityName": "丽水",
+    "CityParentID": 27,
+    "lat": 28.456300,
+    "lng": 119.929576,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 388,
+    "CityID": 389,
+    "CityName": "温州",
+    "CityParentID": 27,
+    "lat": 28.002838,
+    "lng": 120.690635,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 389,
+    "CityID": 390,
+    "CityName": "舟山",
+    "CityParentID": 27,
+    "lat": 30.036010,
+    "lng": 122.169872,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 390,
+    "CityID": 391,
+    "CityName": "阿里",
+    "CityParentID": 28,
+    "lat": 30.404557,
+    "lng": 81.107669,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 391,
+    "CityID": 392,
+    "CityName": "那曲",
+    "CityParentID": 28,
+    "lat": 31.480680,
+    "lng": 92.067018,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 392,
+    "CityID": 393,
+    "CityName": "昌都",
+    "CityParentID": 28,
+    "lat": 31.140576,
+    "lng": 97.185582,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 393,
+    "CityID": 394,
+    "CityName": "林芝",
+    "CityParentID": 28,
+    "lat": 29.666941,
+    "lng": 94.349985,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 394,
+    "CityID": 395,
+    "CityName": "山南",
+    "CityParentID": 28,
+    "lat": 29.229027,
+    "lng": 91.750644,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 395,
+    "CityID": 396,
+    "CityName": "拉萨",
+    "CityParentID": 28,
+    "lat": 29.662557,
+    "lng": 91.111891,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 396,
+    "CityID": 397,
+    "CityName": "日喀则",
+    "CityParentID": 28,
+    "lat": 29.268160,
+    "lng": 88.956063,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 397,
+    "CityID": 398,
+    "CityName": "新界",
+    "CityParentID": 29,
+    "lat": 22.409727,
+    "lng": 114.131662,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 398,
+    "CityID": 399,
+    "CityName": "九龙",
+    "CityParentID": 29,
+    "lat": 28.917804,
+    "lng": 101.635080,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 399,
+    "CityID": 400,
+    "CityName": "香港岛",
+    "CityParentID": 29,
+    "lat": 26.082585,
+    "lng": 119.315039,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 400,
+    "CityID": 401,
+    "CityName": "和田",
+    "CityParentID": 30,
+    "lat": 37.153350,
+    "lng": 79.915814,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 401,
+    "CityID": 402,
+    "CityName": "巴音郭楞",
+    "CityParentID": 30,
+    "lat": 42.837455,
+    "lng": 83.873754,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 402,
+    "CityID": 403,
+    "CityName": "喀什",
+    "CityParentID": 30,
+    "lat": 39.513111,
+    "lng": 76.014343,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 403,
+    "CityID": 404,
+    "CityName": "克孜勒苏",
+    "CityParentID": 30,
+    "lat": 39.72056,
+    "lng": 76.174288,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 404,
+    "CityID": 405,
+    "CityName": "阿克苏",
+    "CityParentID": 30,
+    "lat": 40.349444,
+    "lng": 81.156013,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 405,
+    "CityID": 406,
+    "CityName": "伊犁",
+    "CityParentID": 30,
+    "lat": 43.922783,
+    "lng": 81.330654,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 406,
+    "CityID": 407,
+    "CityName": "博尔塔拉",
+    "CityParentID": 30,
+    "lat": 44.911836,
+    "lng": 82.072555,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 407,
+    "CityID": 408,
+    "CityName": "塔城",
+    "CityParentID": 30,
+    "lat": 46.811367,
+    "lng": 83.190128,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 408,
+    "CityID": 409,
+    "CityName": "克拉玛依",
+    "CityParentID": 30,
+    "lat": 45.203919,
+    "lng": 84.926990,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 409,
+    "CityID": 410,
+    "CityName": "阿勒泰",
+    "CityParentID": 30,
+    "lat": 47.890136,
+    "lng": 87.926214,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 410,
+    "CityID": 411,
+    "CityName": "昌吉",
+    "CityParentID": 30,
+    "lat": 44.175083,
+    "lng": 87.073618,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 411,
+    "CityID": 412,
+    "CityName": "哈密",
+    "CityParentID": 30,
+    "lat": 42.344467,
+    "lng": 93.529373,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 412,
+    "CityID": 413,
+    "CityName": "吐鲁番",
+    "CityParentID": 30,
+    "lat": 42.678925,
+    "lng": 89.266025,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 413,
+    "CityID": 414,
+    "CityName": "乌鲁木齐",
+    "CityParentID": 30,
+    "lat": 43.840380,
+    "lng": 87.564988,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 414,
+    "CityID": 415,
+    "CityName": "石河子",
+    "CityParentID": 30,
+    "lat": 44.308259,
+    "lng": 86.041865,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 415,
+    "CityID": 416,
+    "CityName": "阿拉尔",
+    "CityParentID": 30,
+    "lat": 40.615680,
+    "lng": 81.291737,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 416,
+    "CityID": 417,
+    "CityName": "图木舒克",
+    "CityParentID": 30,
+    "lat": 39.889223,
+    "lng": 79.198155,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 417,
+    "CityID": 418,
+    "CityName": "五家渠",
+    "CityParentID": 30,
+    "lat": 44.368899,
+    "lng": 87.565449,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 418,
+    "CityID": 419,
+    "CityName": "迪庆",
+    "CityParentID": 31,
+    "lat": 27.831029,
+    "lng": 99.713682,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 419,
+    "CityID": 420,
+    "CityName": "丽江",
+    "CityParentID": 31,
+    "lat": 26.875351,
+    "lng": 100.229628,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 420,
+    "CityID": 421,
+    "CityName": "大理",
+    "CityParentID": 31,
+    "lat": 25.693967,
+    "lng": 100.219209,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 421,
+    "CityID": 422,
+    "CityName": "保山",
+    "CityParentID": 31,
+    "lat": 25.120489,
+    "lng": 99.177996,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 422,
+    "CityID": 423,
+    "CityName": "楚雄",
+    "CityParentID": 31,
+    "lat": 24.880252,
+    "lng": 101.328638,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 423,
+    "CityID": 424,
+    "CityName": "昆明",
+    "CityParentID": 31,
+    "lat": 25.049153,
+    "lng": 102.714601,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 424,
+    "CityID": 425,
+    "CityName": "曲靖",
+    "CityParentID": 31,
+    "lat": 25.520758,
+    "lng": 103.782539,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 425,
+    "CityID": 426,
+    "CityName": "德宏",
+    "CityParentID": 31,
+    "lat": 24.441240,
+    "lng": 98.589434,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 426,
+    "CityID": 427,
+    "CityName": "临沧",
+    "CityParentID": 31,
+    "lat": 23.887806,
+    "lng": 100.092613,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 427,
+    "CityID": 428,
+    "CityName": "普洱",
+    "CityParentID": 31,
+    "lat": 22.788778,
+    "lng": 100.980058,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 428,
+    "CityID": 429,
+    "CityName": "玉溪",
+    "CityParentID": 31,
+    "lat": 24.370447,
+    "lng": 102.545068,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 429,
+    "CityID": 430,
+    "CityName": "红河",
+    "CityParentID": 31,
+    "lat": 23.367718,
+    "lng": 103.384065,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 430,
+    "CityID": 431,
+    "CityName": "文山",
+    "CityParentID": 31,
+    "lat": 23.374087,
+    "lng": 104.246294,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 431,
+    "CityID": 432,
+    "CityName": "西双版纳",
+    "CityParentID": 31,
+    "lat": 22.009433,
+    "lng": 100.803038,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 432,
+    "CityID": 433,
+    "CityName": "怒江",
+    "CityParentID": 31,
+    "lat": 25.860677,
+    "lng": 98.859932,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 433,
+    "CityID": 434,
+    "CityName": "昭通",
+    "CityParentID": 31,
+    "lat": 27.340633,
+    "lng": 103.725021,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 434,
+    "CityID": 435,
+    "CityName": "蓟县",
+    "CityParentID": 32,
+    "lat": 40.009614,
+    "lng": 117.441159,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 435,
+    "CityID": 436,
+    "CityName": "宝坻",
+    "CityParentID": 32,
+    "lat": 39.615544,
+    "lng": 117.411421,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 436,
+    "CityID": 437,
+    "CityName": "武清",
+    "CityParentID": 32,
+    "lat": 39.457043,
+    "lng": 117.034578,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 437,
+    "CityID": 438,
+    "CityName": "宁河",
+    "CityParentID": 32,
+    "lat": 39.381561,
+    "lng": 117.689424,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 438,
+    "CityID": 439,
+    "CityName": "北辰",
+    "CityParentID": 32,
+    "lat": 39.259131,
+    "lng": 117.180606,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 439,
+    "CityID": 440,
+    "CityName": "东丽",
+    "CityParentID": 32,
+    "lat": 39.139605,
+    "lng": 117.414782,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 440,
+    "CityID": 441,
+    "CityName": "滨海新区",
+    "CityParentID": 32,
+    "lat": 39.059177,
+    "lng": 117.646286,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 441,
+    "CityID": 442,
+    "CityName": "天津市区",
+    "CityParentID": 32,
+    "lat": 39.143930,
+    "lng": 117.210813,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 442,
+    "CityID": 443,
+    "CityName": "西青",
+    "CityParentID": 32,
+    "lat": 39.035065,
+    "lng": 117.126201,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 443,
+    "CityID": 444,
+    "CityName": "津南",
+    "CityParentID": 32,
+    "lat": 38.969791,
+    "lng": 117.392910,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 444,
+    "CityID": 445,
+    "CityName": "静海",
+    "CityParentID": 32,
+    "lat": 38.861262,
+    "lng": 116.972772,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 445,
+    "CityID": 446,
+    "CityName": "房山区",
+    "CityParentID": 33,
+    "lat": 39.726753,
+    "lng": 115.862836,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 446,
+    "CityID": 447,
+    "CityName": "大兴区",
+    "CityParentID": 33,
+    "lat": 39.652790,
+    "lng": 116.425195,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 447,
+    "CityID": 448,
+    "CityName": "通州区",
+    "CityParentID": 33,
+    "lat": 39.809815,
+    "lng": 116.740079,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 448,
+    "CityID": 449,
+    "CityName": "丰台区",
+    "CityParentID": 33,
+    "lat": 39.841938,
+    "lng": 116.258370,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 449,
+    "CityID": 450,
+    "CityName": "门头沟区",
+    "CityParentID": 33,
+    "lat": 40.000893,
+    "lng": 115.795795,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 450,
+    "CityID": 451,
+    "CityName": "石景山区",
+    "CityParentID": 33,
+    "lat": 39.938867,
+    "lng": 116.184556,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 451,
+    "CityID": 452,
+    "CityName": "朝阳区",
+    "CityParentID": 33,
+    "lat": 43.689109,
+    "lng": 125.278226,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 452,
+    "CityID": 453,
+    "CityName": "北京市区",
+    "CityParentID": 33,
+    "lat": 39.929986,
+    "lng": 116.395645,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 453,
+    "CityID": 454,
+    "CityName": "海淀区",
+    "CityParentID": 33,
+    "lat": 40.033162,
+    "lng": 116.239678,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 454,
+    "CityID": 455,
+    "CityName": "顺义区",
+    "CityParentID": 33,
+    "lat": 40.154951,
+    "lng": 116.728229,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 455,
+    "CityID": 456,
+    "CityName": "昌平区",
+    "CityParentID": 33,
+    "lat": 40.221724,
+    "lng": 116.216456,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 456,
+    "CityID": 457,
+    "CityName": "平谷区",
+    "CityParentID": 33,
+    "lat": 40.215925,
+    "lng": 117.150433,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 457,
+    "CityID": 458,
+    "CityName": "密云县",
+    "CityParentID": 33,
+    "lat": 40.532843,
+    "lng": 117.001201,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 458,
+    "CityID": 459,
+    "CityName": "怀柔区",
+    "CityParentID": 33,
+    "lat": 40.638139,
+    "lng": 116.593408,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 459,
+    "CityID": 460,
+    "CityName": "延庆县",
+    "CityParentID": 33,
+    "lat": 40.545156,
+    "lng": 116.169735,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 460,
+    "CityID": 461,
+    "CityName": "中卫",
+    "CityParentID": 35,
+    "lat": 37.521124,
+    "lng": 105.196754,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 461,
+    "CityID": 462,
+    "CityName": "吴忠",
+    "CityParentID": 35,
+    "lat": 37.993561,
+    "lng": 106.208254,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 462,
+    "CityID": 463,
+    "CityName": "银川",
+    "CityParentID": 35,
+    "lat": 38.502621,
+    "lng": 106.206479,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 463,
+    "CityID": 464,
+    "CityName": "石嘴山",
+    "CityParentID": 35,
+    "lat": 39.020223,
+    "lng": 106.379337,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 464,
+    "CityID": 465,
+    "CityName": "固原",
+    "CityParentID": 35,
+    "lat": 36.021523,
+    "lng": 106.285268,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 465,
+    "CityID": 878,
+    "CityName": "常熟",
+    "CityParentID": 277,
+    "lat": 31.669446,
+    "lng": 120.831486,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 466,
+    "CityID": 879,
+    "CityName": "富阳",
+    "CityParentID": 382,
+    "lat": 30.001094,
+    "lng": 119.846692,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 467,
+    "CityID": 880,
+    "CityName": "海门",
+    "CityParentID": 272,
+    "lat": 31.956039,
+    "lng": 121.312470,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 468,
+    "CityID": 881,
+    "CityName": "即墨",
+    "CityParentID": 312,
+    "lat": 36.487909,
+    "lng": 120.521106,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 469,
+    "CityID": 882,
+    "CityName": "江阴",
+    "CityParentID": 276,
+    "lat": 31.837425,
+    "lng": 120.310679,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 470,
+    "CityID": 883,
+    "CityName": "胶南",
+    "CityParentID": 312,
+    "lat": 35.852858,
+    "lng": 119.856310,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 471,
+    "CityID": 884,
+    "CityName": "胶州",
+    "CityParentID": 312,
+    "lat": 36.248031,
+    "lng": 119.959421,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 472,
+    "CityID": 885,
+    "CityName": "金坛",
+    "CityParentID": 275,
+    "lat": 31.723054,
+    "lng": 119.515038,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 473,
+    "CityID": 886,
+    "CityName": "句容",
+    "CityParentID": 273,
+    "lat": 31.932635,
+    "lng": 119.207080,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 474,
+    "CityID": 887,
+    "CityName": "库尔勒",
+    "CityParentID": 402,
+    "lat": 41.705500,
+    "lng": 85.709418,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 475,
+    "CityID": 888,
+    "CityName": "昆山",
+    "CityParentID": 277,
+    "lat": 31.328937,
+    "lng": 120.965808,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 476,
+    "CityID": 889,
+    "CityName": "莱西",
+    "CityParentID": 312,
+    "lat": 36.863637,
+    "lng": 120.442831,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 477,
+    "CityID": 890,
+    "CityName": "莱州",
+    "CityParentID": 313,
+    "lat": 37.190401,
+    "lng": 120.001344,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 478,
+    "CityID": 891,
+    "CityName": "溧阳",
+    "CityParentID": 275,
+    "lat": 31.425242,
+    "lng": 119.382839,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 479,
+    "CityID": 892,
+    "CityName": "临安",
+    "CityParentID": 382,
+    "lat": 30.207684,
+    "lng": 119.350295,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 480,
+    "CityID": 893,
+    "CityName": "蓬莱",
+    "CityParentID": 313,
+    "lat": 37.661160,
+    "lng": 120.862694,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 481,
+    "CityID": 894,
+    "CityName": "平度",
+    "CityParentID": 312,
+    "lat": 36.788550,
+    "lng": 119.951062,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 482,
+    "CityID": 895,
+    "CityName": "荣成",
+    "CityParentID": 311,
+    "lat": 37.128686,
+    "lng": 122.406926,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 483,
+    "CityID": 896,
+    "CityName": "乳山",
+    "CityParentID": 311,
+    "lat": 36.976575,
+    "lng": 121.529788,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 484,
+    "CityID": 897,
+    "CityName": "寿光",
+    "CityParentID": 314,
+    "lat": 37.029892,
+    "lng": 118.852534,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 485,
+    "CityID": 898,
+    "CityName": "太仓",
+    "CityParentID": 277,
+    "lat": 31.571904,
+    "lng": 121.158978,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 486,
+    "CityID": 899,
+    "CityName": "瓦房店",
+    "CityParentID": 283,
+    "lat": 39.708956,
+    "lng": 121.790699,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 487,
+    "CityID": 900,
+    "CityName": "文登",
+    "CityParentID": 311,
+    "lat": 37.154120,
+    "lng": 122.010782,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 488,
+    "CityID": 901,
+    "CityName": "吴江",
+    "CityParentID": 277,
+    "lat": 31.014847,
+    "lng": 120.639402,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 489,
+    "CityID": 902,
+    "CityName": "宜兴",
+    "CityParentID": 276,
+    "lat": 31.362245,
+    "lng": 119.790265,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 490,
+    "CityID": 903,
+    "CityName": "义乌",
+    "CityParentID": 386,
+    "lat": 29.306444,
+    "lng": 120.067296,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 491,
+    "CityID": 904,
+    "CityName": "张家港",
+    "CityParentID": 277,
+    "lat": 31.907812,
+    "lng": 120.627279,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 492,
+    "CityID": 905,
+    "CityName": "章丘",
+    "CityParentID": 318,
+    "lat": 36.744883,
+    "lng": 117.479345,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 493,
+    "CityID": 906,
+    "CityName": "招远",
+    "CityParentID": 313,
+    "lat": 37.344146,
+    "lng": 120.400517,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 494,
+    "CityID": 907,
+    "CityName": "诸暨",
+    "CityParentID": 383,
+    "lat": 29.699400,
+    "lng": 120.281434,
+    "IsHasAQI": 1
+  },
+  {
+    "ID": 495,
+    "CityID": 909,
+    "CityName": "和平",
+    "CityParentID": 32,
+    "lat": 39.124809,
+    "lng": 117.202814,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 496,
+    "CityID": 910,
+    "CityName": "河东",
+    "CityParentID": 32,
+    "lat": 39.126626,
+    "lng": 117.261693,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 497,
+    "CityID": 911,
+    "CityName": "河西",
+    "CityParentID": 32,
+    "lat": 39.084494,
+    "lng": 117.236165,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 498,
+    "CityID": 912,
+    "CityName": "南开",
+    "CityParentID": 32,
+    "lat": 39.116987,
+    "lng": 117.162728,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 499,
+    "CityID": 913,
+    "CityName": "河北区",
+    "CityParentID": 32,
+    "lat": 39.173149,
+    "lng": 117.220297,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 500,
+    "CityID": 914,
+    "CityName": "红桥",
+    "CityParentID": 32,
+    "lat": 39.170621,
+    "lng": 117.162217,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 501,
+    "CityID": 915,
+    "CityName": "塘沽",
+    "CityParentID": 32,
+    "lat": 39.007936,
+    "lng": 117.649081,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 502,
+    "CityID": 916,
+    "CityName": "汉沽",
+    "CityParentID": 32,
+    "lat": 39.247773,
+    "lng": 117.873530,
+    "IsHasAQI": 0
+  },
+  {
+    "ID": 503,
+    "CityID": 917,
+    "CityName": "大港",
+    "CityParentID": 32,
+    "lat": 38.729573,
+    "lng": 117.380794,
+    "IsHasAQI": 0
+  }
+]

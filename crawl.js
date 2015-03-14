@@ -2,8 +2,10 @@ var request = require("request");
 var cityData = require("./city.json");
 var _ = require("lodash");
 var async = require("async");
-var jf = require('jsonfile');
 var moment = require('moment');
+var archiver = require('archiver');
+var fs = require('fs');
+var nodemailer = require('nodemailer');
 
 var city = _.filter(cityData, function (c) {
     return c.IsHasAQI === 1;
@@ -59,15 +61,64 @@ var q = async.queue(function (c, callback) {
 
         callback();
     });
-}, 50);
+}, 20);
 
-q.drain = function () {
-    console.log('all items have been processed');
-    jf.writeFileSync("captured" + moment().format("YYYY_MM_DD_HH_mm_ss") + ".json", captured);
-};
-
-//request.debug = true;
 _.forEach(city, function (c) {
     console.log(c.CityName);
     q.push({cityId: c.CityID});
 });
+
+function saveToZipFile(json, path, filenameBase) {
+    console.log("Saving to file");
+    var archive = archiver('zip');
+    var output = fs.createWriteStream(path);
+
+    archive.pipe(output);
+    archive.append(JSON.stringify(json, null, 4), {name: filenameBase + ".json"});
+    archive.finalize();
+}
+
+function email(filenameBase, filePath) {
+    var cfg;
+    try {
+        cfg = require("./email");
+    }
+    catch (ex) {
+        return;
+    }
+
+    console.log("Sending email");
+    var transporter = nodemailer.createTransport({
+        service: 'Gmail',
+        auth: {
+            user: cfg.user,
+            pass: cfg.pass
+        }
+    });
+
+    var mailOptions = {
+        from: 'no-reply@gmail.com',
+        to: cfg.to,
+        subject: "[AQI]" + filenameBase,
+        attachments: {
+            filename: filenameBase + ".zip",
+            path: filePath
+        }
+    };
+
+    transporter.sendMail(mailOptions, function (error, info) {
+        if (error) {
+            console.log("Error", error);
+        } else {
+            console.log('Message sent: ' + info.response);
+        }
+    });
+}
+
+q.drain = function () {
+    console.log('all items have been processed');
+    var filenameBase = moment().format("YYYY_MM_DD_hh_mm_ss_ZZ");
+    var zipFilePath = "data/" + filenameBase + ".zip";
+    saveToZipFile(captured, zipFilePath, filenameBase);
+    email(filenameBase, zipFilePath);
+};

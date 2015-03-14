@@ -46,20 +46,20 @@ var q = async.queue(function (c, callback) {
 
         try {
             var data = JSON.parse(body);
+
+            console.log(data.MonitoringPointName);
+            captured.push(data);
+
+            if (_.isEmpty(c.MC)) {
+                _.each(data.CityMonitorPoint, function (v) {
+                    q.push({cityId: c.cityId, MC: v.MC});
+                });
+            }
+
+            callback();
         } catch (e) {
             callback(error);
         }
-
-        console.log(data.MonitoringPointName);
-        captured.push(data);
-
-        if (_.isEmpty(c.MC)) {
-            _.each(data.CityMonitorPoint, function (v) {
-                q.push({cityId: c.cityId, MC: v.MC});
-            });
-        }
-
-        callback();
     });
 }, 20);
 
@@ -81,7 +81,7 @@ function saveToZipFile(json, path, filenameBase) {
 function email(filenameBase, filePath) {
     var cfg;
     try {
-        cfg = require("./email");
+        cfg = require("./email.json");
     }
     catch (ex) {
         return;
